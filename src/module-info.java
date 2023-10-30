@@ -4,5 +4,5 @@
 /**
  * 
  */
-module java1_first_app {
+module java1_lesson2_homework {
 }
